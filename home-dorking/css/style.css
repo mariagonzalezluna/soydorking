@@ -663,7 +663,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     position: relative;
     overflow: hidden;
     width: 100%;
-    min-height: 110px;
+    min-height: 85px;
     background: #ff7a7f;
     z-index: 1;
     background-size: cover; }

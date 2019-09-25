@@ -83,7 +83,7 @@ a {
       transform: translateX(-50%);
       bottom: -10px; }
   .area-heading p {
-    color: #0a0a0a; }
+    color: #fdfdff; }
 
 body {
   line-height: 27px;
@@ -124,7 +124,7 @@ button:focus {
   padding-bottom: 100px; }
 
 .background_one {
-  background: #fbf1f2; }
+  background: #4d4d4d; }
 
 .border-bottom {
   border-bottom: 1px solid #e8edf1; }
@@ -149,7 +149,7 @@ button:focus {
   padding-right: 0 !important; }
 
 .background_one {
-  background: #fbf1f2; }
+  background: #4d4d4d; }
 
 img {
   max-width: 100%; }

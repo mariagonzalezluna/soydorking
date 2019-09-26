@@ -1,3 +1,10 @@
+@media (max-width: 430px) {
+	.single-blog .short_details {width: 100%; position: relative;}
+	.text-pie-nonesmall {display: none;}
+	.text-index-sinpadding {padding: 0px !important;}
+
+}
+
 @media (max-width:1619px){
 	/* Main Menu Area css
 	============================================================================================ */
@@ -137,12 +144,7 @@
 
 }
 
-@media (max-width: 430px) {
-	.single-blog .short_details {width: 100%; position: relative;}
-	.text-pie-nonesmall {display: none;}
-	.text-index-sinpadding {padding: 0px;}
 
-}
 
 @media (max-width:991px){
 	/* Main Menu Area css

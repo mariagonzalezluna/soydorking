@@ -1438,7 +1438,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   .blog_details p {
     margin-bottom: 30px; }
   .blog_details a {
-    color: #2a2a2a; }
+    color: #fdfdff; }
     .blog_details a:hover {
       color: #ff7a7f; }
   .blog_details h2 {
@@ -1928,9 +1928,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   .contact-info .media-body h3 {
     font-size: 16px;
     margin-bottom: 0;
-    color: #2a2a2a; }
+    color: #fdfdff; }
     .contact-info .media-body h3 a {
-      color: #2a2a2a; }
+      color: #fdfdff; }
       .contact-info .media-body h3 a:hover {
         color: #ff7a7f; }
   .contact-info .media-body p {

@@ -27,6 +27,8 @@
 	}
 }
 
+
+
 @media (min-width:1200px) and (max-width: 1500px){
 	.single-blog.style-three .short_details {
 
@@ -138,6 +140,7 @@
 @media (max-width: 430px) {
 	.single-blog .short_details {width: 100%; position: relative;}
 	.text-pie-nonesmall {display: none;}
+	.text-index-sinpadding {padding: 0px;}
 
 }
 
